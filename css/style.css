@@ -128,3 +128,8 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+ @media screen and (max-width:768px) {
+    .lessons .col {
+        width: 25%;
+    }
+ }
